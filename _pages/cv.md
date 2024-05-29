@@ -41,7 +41,6 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Li, Jianyao (2021). Evaluating the Effects of BKT-LSTM on Students' Learning Performance. Purdue University Graduate School. Thesis. https://doi.org/10.25394/PGS.17126693.v1
+* Dominic Kao, Amogh Joshi, Christos Mousas, Abhigna Peddireddy, Arjun Kramadhati Gopi, Jianyao Li, John Springer, Bethany S. McGowan, and Jason B. Reed. 2021. Fighting COVID-19 at Purdue University: Design and Evaluation of a Game for Teaching COVID-19 Hygienic Best Practices. In Proceedings of the 16th International Conference on the Foundations of Digital Games (FDG '21). Association for Computing Machinery, New York, NY, USA, Article 15, 1–23. https://doi.org/10.1145/3472538.3472552
 
