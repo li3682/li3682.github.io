@@ -11,54 +11,37 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Computer Information and Technology, Purdue University, 2021
+* B.S. in Information and Computing Science, Guangdong University of Technology, 2019
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2022.09 - Now: R&D Engineer
+  * China Enterprise Communications Ltd.
+  * Duties includes: Data warehouse construction and optimization, AI-based data analysis
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2022.02 - 2022.09: Bigdata Data Engineer
+  * Xpeng Inc.
+  * Duties included: Data flow design, hadoop ecosystem-related construction and data processing
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2020.01 - 2021.12 - : Research Assistant
+  * Purdue University
+  * Duties included: Experiment design, data processing, model training
+  * Supervisor: Dr. Dominic Kao
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages
+  * Python, Java, SQL, Shell
+* Data relevant
+  * Database: MySQL, SQL Server, etc.
+  * Hadoop: HDFS, Spark, Hive, Flume, Kafka, etc.
+* Machine Learning
+  * Regression Models, Tree Models, Clustering, Neural Networks, etc.
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
