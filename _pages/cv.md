@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* M.S. in Computer Information and Technology, Purdue University, 2021
+* M.S. in Computer and Information Technology, Purdue University, 2021
 * B.S. in Information and Computing Science, Guangdong University of Technology, 2019
 
 Work experience
